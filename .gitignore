@@ -1,0 +1,7 @@
+node_modules
+.next
+.env
+.env.local
+.env.production
+convex/_generated
+.DS_Store
